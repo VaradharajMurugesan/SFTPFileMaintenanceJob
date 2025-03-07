@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SFTPFileMaintenanceJob": {
+      "commandName": "Project",
+      "commandLineArgs": "ManhattanPunchExport"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+2025-03-07 11:52:37.5776 | INFO | Starting SFTP maintenance job for Process Type: ManhattanPunchExport 
+2025-03-07 11:52:52.2935 | INFO | Connected to SFTP server: sftp2.uat.legion.work 
+2025-03-07 11:54:39.4645 | INFO | Starting SFTP maintenance job for Process Type: ManhattanPunchExport 
+2025-03-07 11:54:50.1643 | INFO | Connected to SFTP server: sftp2.uat.legion.work 
+2025-03-07 11:54:54.3459 | INFO | Starting deletion of old files in archive: /home/fivebelow-uat/outbox/manhattan_output/Archive (Threshold: 2025-02-05) 
+2025-03-07 11:55:21.9001 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/TimeClockChangeEntity-2024-308-2024-342_test.csv 
+2025-03-07 11:55:50.1826 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/FCIN_RETAIL/2025.02.25 PunchExport Active.csv 
+2025-03-07 11:55:50.8249 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/FCIN_RETAIL/PunchExport 2025.02.11.csv 
+2025-03-07 11:55:53.6206 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/FCAZ_RETAIL/2025.02.26 PunchExport.csv 
+2025-03-07 11:55:54.2018 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/FCAZ_RETAIL/TimeClockChangeEntity-2024-308-2024-342.csv 
+2025-03-07 11:55:56.5461 | INFO | Old file deletion process completed successfully. 
+2025-03-07 11:55:56.8726 | INFO | SFTP maintenance job completed successfully. 
+2025-03-07 12:17:47.5831 | INFO | Starting SFTP maintenance job for Process Type: ManhattanPunchExport 
+2025-03-07 12:18:02.8079 | INFO | Connected to SFTP server: sftp2.uat.legion.work 
+2025-03-07 12:18:12.1584 | INFO | Created directory: /home/fivebelow-uat/outbox/manhattan_output/Archive/FCIN_RETAIL 
+2025-03-07 12:18:19.6633 | INFO | Moved /home/fivebelow-uat/outbox/manhattan_output/FCIN_RETAIL/Payfile_FEL_2024-11-17-2024-11-30-2024.csv → /home/fivebelow-uat/outbox/manhattan_output/Archive/FCIN_RETAIL/Payfile_FEL_2024-11-17-2024-11-30-2024.csv 
+2025-03-07 12:18:27.8440 | INFO | Moved /home/fivebelow-uat/outbox/manhattan_output/FCIN_RETAIL/PunchExport 2025.02.11.csv → /home/fivebelow-uat/outbox/manhattan_output/Archive/FCIN_RETAIL/PunchExport 2025.02.11.csv 
+2025-03-07 12:18:35.0298 | INFO | Moved /home/fivebelow-uat/outbox/manhattan_output/FCAZ_RETAIL/PunchExport_20241018_151805.csv → /home/fivebelow-uat/outbox/manhattan_output/Archive/FCAZ_RETAIL/PunchExport_20241018_151805.csv 
+2025-03-07 12:18:38.9852 | INFO | Moved /home/fivebelow-uat/outbox/manhattan_output/FCAZ_RETAIL/TimeClockChangeEntity-2024-308-2024-342.csv → /home/fivebelow-uat/outbox/manhattan_output/Archive/FCAZ_RETAIL/TimeClockChangeEntity-2024-308-2024-342.csv 
+2025-03-07 12:18:40.7611 | INFO | Starting deletion of old files in archive: /home/fivebelow-uat/outbox/manhattan_output/Archive (Threshold: 2025-02-05) 
+2025-03-07 12:18:52.6620 | INFO | Old file deletion process completed successfully. 
+2025-03-07 12:18:52.9741 | INFO | SFTP maintenance job completed successfully. 
+2025-03-07 12:35:00.2614 | INFO | Starting SFTP maintenance job for Process Type: ManhattanPunchExport 
+2025-03-07 12:35:06.4438 | INFO | Connected to SFTP server: sftp2.uat.legion.work 
+2025-03-07 12:35:06.4533 | INFO | Starting file movement process. Threshold date: 2025-03-07 
+2025-03-07 12:35:11.7685 | INFO | Created directory: /home/fivebelow-uat/outbox/manhattan_output/Archive/FCIN_RETAIL/Test3 
+2025-03-07 12:35:16.9158 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/FCIN_RETAIL/Test3/TimeClockChangeEntity-2024-308-2024-342_test3.csv → /home/fivebelow-uat/outbox/manhattan_output/Archive/FCIN_RETAIL/Test3/TimeClockChangeEntity-2024-308-2024-342_test3.csv 
+2025-03-07 12:35:18.2863 | INFO | Created directory: /home/fivebelow-uat/outbox/manhattan_output/Archive/FCIN_RETAIL/Test4 
+2025-03-07 12:35:21.2160 | INFO | Created directory: /home/fivebelow-uat/outbox/manhattan_output/Archive/FCIN_RETAIL/Test4/Test5 
+2025-03-07 12:35:28.8743 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/FCAZ_RETAIL/TimeClockChangeEntity-2024-329-2024-363.csv.gz → /home/fivebelow-uat/outbox/manhattan_output/Archive/FCAZ_RETAIL/TimeClockChangeEntity-2024-329-2024-363.csv.gz 
+2025-03-07 12:35:30.1852 | INFO | Created directory: /home/fivebelow-uat/outbox/manhattan_output/Archive/FCAZ_RETAIL/Test1 
+2025-03-07 12:35:36.1195 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/FCAZ_RETAIL/Test1/TimeClockChangeEntity-2024-308-2024-342_test.csv → /home/fivebelow-uat/outbox/manhattan_output/Archive/FCAZ_RETAIL/Test1/TimeClockChangeEntity-2024-308-2024-342_test.csv 
+2025-03-07 12:35:37.4432 | INFO | Created directory: /home/fivebelow-uat/outbox/manhattan_output/Archive/FCAZ_RETAIL/Test2 
+2025-03-07 12:35:42.5742 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/FCAZ_RETAIL/Test2/TimeClockChangeEntity-2024-308-2024-342_test2.csv → /home/fivebelow-uat/outbox/manhattan_output/Archive/FCAZ_RETAIL/Test2/TimeClockChangeEntity-2024-308-2024-342_test2.csv 
+2025-03-07 12:35:43.9112 | INFO | Created directory: /home/fivebelow-uat/outbox/manhattan_output/Archive/FCAZ_RETAIL/Test2/Test11 
+2025-03-07 12:35:55.2280 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/FCAZ_RETAIL/Test2/Test11/PunchExport_20241018_151805.csv → /home/fivebelow-uat/outbox/manhattan_output/Archive/FCAZ_RETAIL/Test2/Test11/PunchExport_20241018_151805.csv 
+2025-03-07 12:35:56.5350 | INFO | Created directory: /home/fivebelow-uat/outbox/manhattan_output/Archive/FCAZ_RETAIL/Test2/Test11/Test111 
+2025-03-07 12:36:01.6960 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/FCAZ_RETAIL/Test2/Test11/Test111/PunchExport 2025.02.11_20250213_221107.csv → /home/fivebelow-uat/outbox/manhattan_output/Archive/FCAZ_RETAIL/Test2/Test11/Test111/PunchExport 2025.02.11_20250213_221107.csv 
+2025-03-07 12:36:03.6133 | INFO | File movement process completed successfully. 
+2025-03-07 12:36:03.6133 | INFO | Starting deletion of old files in archive: /home/fivebelow-uat/outbox/manhattan_output/Archive (Threshold: 2025-02-05) 
+2025-03-07 12:36:20.1925 | INFO | Old file deletion process completed successfully. 
+2025-03-07 12:36:20.5347 | INFO | SFTP maintenance job completed successfully. 
+2025-03-07 12:47:20.3053 | INFO | Starting SFTP maintenance job for Process Type: ManhattanPunchExport 
+2025-03-07 12:47:26.4952 | INFO | Connected to SFTP server: sftp2.uat.legion.work 
+2025-03-07 12:47:26.4989 | INFO | Starting file movement process. Threshold date: 2025-02-28 
+2025-03-07 12:47:47.4899 | INFO | File movement process completed successfully. 
+2025-03-07 12:47:47.4899 | INFO | Starting deletion of old files in archive: /home/fivebelow-uat/outbox/manhattan_output/Archive (Threshold: 2025-03-07) 
+2025-03-07 12:47:51.0391 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/FCIN_RETAIL/Payfile_FEL_2024-11-17-2024-11-30-2024.csv 
+2025-03-07 12:47:51.6398 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/FCIN_RETAIL/PunchExport 2025.02.11.csv 
+2025-03-07 12:47:53.6667 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/FCIN_RETAIL/Test3/TimeClockChangeEntity-2024-308-2024-342_test3.csv 
+2025-03-07 12:47:58.2524 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/FCAZ_RETAIL/PunchExport_20241018_151805.csv 
+2025-03-07 12:47:58.8492 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/FCAZ_RETAIL/TimeClockChangeEntity-2024-308-2024-342.csv 
+2025-03-07 12:47:59.5147 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/FCAZ_RETAIL/TimeClockChangeEntity-2024-329-2024-363.csv.gz 
+2025-03-07 12:48:01.5222 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/FCAZ_RETAIL/Test1/TimeClockChangeEntity-2024-308-2024-342_test.csv 
+2025-03-07 12:48:03.5695 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/FCAZ_RETAIL/Test2/TimeClockChangeEntity-2024-308-2024-342_test2.csv 
+2025-03-07 12:48:05.5857 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/FCAZ_RETAIL/Test2/Test11/PunchExport_20241018_151805.csv 
+2025-03-07 12:48:07.5947 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/FCAZ_RETAIL/Test2/Test11/Test111/PunchExport 2025.02.11_20250213_221107.csv 
+2025-03-07 12:48:08.7332 | INFO | Old file deletion process completed successfully. 
+2025-03-07 12:48:09.0437 | INFO | SFTP maintenance job completed successfully. 

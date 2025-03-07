@@ -1,0 +1,26 @@
+2025-03-06 15:32:01.8156 | INFO | Application started successfully. 
+2025-03-06 15:32:02.4120 | WARN | This is a warning message. 
+2025-03-06 15:32:02.9749 | ERROR | This is an error message. 
+2025-03-06 15:35:08.6747 | INFO | Starting SFTP maintenance job for Process Type: ManhattanPunchExport 
+2025-03-06 15:35:39.6515 | INFO | Starting SFTP maintenance job for Process Type: ManhattanPunchExport 
+2025-03-06 15:36:24.5034 | INFO | Starting SFTP maintenance job for Process Type: ManhattanPunchExport 
+2025-03-06 15:36:34.2781 | ERROR | No configuration found for process type: ManhattanPunchExport 
+2025-03-06 15:42:55.6237 | INFO | Starting SFTP maintenance job for Process Type: ManhattanPunchExport 
+2025-03-06 15:43:33.3526 | INFO | Starting SFTP maintenance job for Process Type: ManhattanPunchExport 
+2025-03-06 15:43:55.5333 | ERROR | SFTP job failed. System.Net.Sockets.SocketException (11001): No such host is known.
+   at System.Net.NameResolutionPal.ProcessResult(SocketError errorCode, GetAddrInfoExContext* context)
+   at System.Net.NameResolutionPal.GetAddressInfoExCallback(Int32 error, Int32 bytes, NativeOverlapped* overlapped)
+--- End of stack trace from previous location ---
+   at System.Net.Dns.<GetAddrInfoWithTelemetryAsync>g__CompleteAsync|34_0[T](Task task, String hostName, Int64 startingTimestamp)
+2025-03-06 16:44:44.0717 | INFO | Starting SFTP maintenance job for Process Type: ManhattanPunchExport 
+2025-03-06 16:45:09.1290 | INFO | Connected to SFTP server: sftp2.uat.legion.work 
+2025-03-06 16:46:45.0410 | INFO | Created directory: /home/fivebelow-uat/outbox/manhattan_output/Archive/FCIN_RETAIL 
+2025-03-06 16:55:34.8190 | INFO | Starting SFTP maintenance job for Process Type: ManhattanPunchExport 
+2025-03-06 16:55:43.9520 | INFO | Connected to SFTP server: sftp2.uat.legion.work 
+2025-03-06 16:57:18.9181 | INFO | Starting SFTP maintenance job for Process Type: ManhattanPunchExport 
+2025-03-06 16:57:28.7884 | INFO | Connected to SFTP server: sftp2.uat.legion.work 
+2025-03-06 16:58:23.8228 | INFO | Moved /home/fivebelow-uat/outbox/manhattan_output/FCIN_RETAIL/2025.02.25 PunchExport Active.csv → /home/fivebelow-uat/outbox/manhattan_output/Archive/FCIN_RETAIL/2025.02.25 PunchExport Active.csv 
+2025-03-06 16:58:42.3376 | INFO | Moved /home/fivebelow-uat/outbox/manhattan_output/FCIN_RETAIL/PunchExport 2025.02.11.csv → /home/fivebelow-uat/outbox/manhattan_output/Archive/FCIN_RETAIL/PunchExport 2025.02.11.csv 
+2025-03-06 16:59:01.0571 | INFO | Created directory: /home/fivebelow-uat/outbox/manhattan_output/Archive/FCAZ_RETAIL 
+2025-03-06 16:59:26.1999 | INFO | Moved /home/fivebelow-uat/outbox/manhattan_output/FCAZ_RETAIL/2025.02.26 PunchExport.csv → /home/fivebelow-uat/outbox/manhattan_output/Archive/FCAZ_RETAIL/2025.02.26 PunchExport.csv 
+2025-03-06 16:59:29.0209 | INFO | Created directory: /home/fivebelow-uat/outbox/manhattan_output/Archive/SCAZ_RETAIL 
