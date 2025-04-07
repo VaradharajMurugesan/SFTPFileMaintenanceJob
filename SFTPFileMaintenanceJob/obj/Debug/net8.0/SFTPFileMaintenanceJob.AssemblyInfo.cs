@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SFTPFileMaintenanceJob")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82cc4092815098d867607482df0467551e7d4c1f")]
 [assembly: System.Reflection.AssemblyProductAttribute("SFTPFileMaintenanceJob")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SFTPFileMaintenanceJob")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

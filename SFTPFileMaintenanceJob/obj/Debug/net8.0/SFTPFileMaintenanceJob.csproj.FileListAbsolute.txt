@@ -22,3 +22,4 @@ C:\Users\varadharaj\source\repos\SFTPFileMaintenanceJob\SFTPFileMaintenanceJob\o
 C:\Users\varadharaj\source\repos\SFTPFileMaintenanceJob\SFTPFileMaintenanceJob\bin\Debug\net8.0\NLog.dll
 C:\Users\varadharaj\source\repos\SFTPFileMaintenanceJob\SFTPFileMaintenanceJob\bin\Debug\net8.0\nlog.config
 C:\Users\varadharaj\source\repos\SFTPFileMaintenanceJob\SFTPFileMaintenanceJob\bin\Debug\net8.0\AppSettings\appsettings.json
+C:\Users\varadharaj\source\repos\SFTPFileMaintenanceJob\SFTPFileMaintenanceJob\obj\Debug\net8.0\SFTPFileMaintenanceJob.sourcelink.json

@@ -57,3 +57,27 @@
 2025-03-07 12:48:07.5947 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/FCAZ_RETAIL/Test2/Test11/Test111/PunchExport 2025.02.11_20250213_221107.csv 
 2025-03-07 12:48:08.7332 | INFO | Old file deletion process completed successfully. 
 2025-03-07 12:48:09.0437 | INFO | SFTP maintenance job completed successfully. 
+2025-03-07 22:21:24.8291 | INFO | Starting SFTP maintenance job for Process Type: ManhattanPunchExport 
+2025-03-07 22:21:31.2595 | INFO | Connected to SFTP server: sftp2.uat.legion.work 
+2025-03-07 22:21:31.2740 | INFO | Starting file movement process. Threshold date: 2025-03-07 
+2025-03-07 22:21:36.1514 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/CICO_0120_20250307215157_40000.xml → /home/fivebelow-uat/outbox/manhattan_output/Archive/CICO_0120_20250307215157_40000.xml 
+2025-03-07 22:21:37.3594 | INFO | Created directory: /home/fivebelow-uat/outbox/manhattan_output/Archive/SCGA_RETAIL 
+2025-03-07 22:21:42.0603 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/SCGA_RETAIL/CICO_004_20250307215135_40000.xml → /home/fivebelow-uat/outbox/manhattan_output/Archive/SCGA_RETAIL/CICO_004_20250307215135_40000.xml 
+2025-03-07 22:21:47.0706 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/SCGA_RETAIL/TimeClockChangeEntity-2024-308-2024-342.csv → /home/fivebelow-uat/outbox/manhattan_output/Archive/SCGA_RETAIL/TimeClockChangeEntity-2024-308-2024-342.csv 
+2025-03-07 22:21:48.3005 | INFO | Created directory: /home/fivebelow-uat/outbox/manhattan_output/Archive/SCAZ_RETAIL 
+2025-03-07 22:21:52.9958 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/SCAZ_RETAIL/CICO_006_20250307215104_40000.xml → /home/fivebelow-uat/outbox/manhattan_output/Archive/SCAZ_RETAIL/CICO_006_20250307215104_40000.xml 
+2025-03-07 22:21:54.2130 | INFO | Created directory: /home/fivebelow-uat/outbox/manhattan_output/Archive/SCAZ_RETAIL/Test2 
+2025-03-07 22:22:00.5016 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/SCAZ_RETAIL/Test2/PunchExport_20241018_151805.csv → /home/fivebelow-uat/outbox/manhattan_output/Archive/SCAZ_RETAIL/Test2/PunchExport_20241018_151805.csv 
+2025-03-07 22:22:01.7173 | INFO | Created directory: /home/fivebelow-uat/outbox/manhattan_output/Archive/SCNJ_RETAIL 
+2025-03-07 22:22:06.4225 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/SCNJ_RETAIL/CICO_003_20250307215213_40000.xml → /home/fivebelow-uat/outbox/manhattan_output/Archive/SCNJ_RETAIL/CICO_003_20250307215213_40000.xml 
+2025-03-07 22:22:09.6546 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/SCNJ_RETAIL/TimeClockChangeEntity-2024-308-2024-342_test2.csv → /home/fivebelow-uat/outbox/manhattan_output/Archive/SCNJ_RETAIL/TimeClockChangeEntity-2024-308-2024-342_test2.csv 
+2025-03-07 22:22:09.6546 | INFO | File movement process completed successfully. 
+2025-03-07 22:22:09.6546 | INFO | Starting deletion of old files in archive: /home/fivebelow-uat/outbox/manhattan_output/Archive (Threshold: 2025-03-07) 
+2025-03-07 22:22:11.7823 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/CICO_0120_20250307215157_40000.xml 
+2025-03-07 22:22:13.7900 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/SCGA_RETAIL/CICO_004_20250307215135_40000.xml 
+2025-03-07 22:22:14.3784 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/SCGA_RETAIL/TimeClockChangeEntity-2024-308-2024-342.csv 
+2025-03-07 22:22:16.4133 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/SCAZ_RETAIL/CICO_006_20250307215104_40000.xml 
+2025-03-07 22:22:18.4141 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/SCAZ_RETAIL/Test2/PunchExport_20241018_151805.csv 
+2025-03-07 22:22:20.4503 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/SCNJ_RETAIL/CICO_003_20250307215213_40000.xml 
+2025-03-07 22:22:20.4503 | INFO | Old file deletion process completed successfully. 
+2025-03-07 22:22:20.7575 | INFO | SFTP maintenance job completed successfully. 

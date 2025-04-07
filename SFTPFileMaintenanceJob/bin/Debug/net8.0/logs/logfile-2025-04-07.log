@@ -1,0 +1,104 @@
+2025-04-07 10:23:00.7308 | INFO | Starting SFTP maintenance job for Process Type: ManhattanPunchExport 
+2025-04-07 10:23:14.5160 | INFO | Connected to SFTP server: sftp2.uat.legion.work 
+2025-04-07 10:23:14.5210 | INFO | Starting file movement process. Threshold date: 2025-04-07 
+2025-04-07 10:23:19.2767 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/CICO_0120_20250307222710_40000.xml → /home/fivebelow-uat/outbox/manhattan_output/Archive/CICO_0120_20250307222710_40000.xml 
+2025-04-07 10:23:20.4391 | INFO | Created directory: /home/fivebelow-uat/outbox/manhattan_output/Archive/SCGA_RETAIL 
+2025-04-07 10:23:24.9216 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/SCGA_RETAIL/CICO_004_20250307222655_40000.xml → /home/fivebelow-uat/outbox/manhattan_output/Archive/SCGA_RETAIL/CICO_004_20250307222655_40000.xml 
+2025-04-07 10:23:27.9837 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/SCGA_RETAIL/CICO_004_20250402112137_40000.xml → /home/fivebelow-uat/outbox/manhattan_output/Archive/SCGA_RETAIL/CICO_004_20250402112137_40000.xml 
+2025-04-07 10:23:31.0235 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/SCGA_RETAIL/CICO_004_20250402112907_40000.xml → /home/fivebelow-uat/outbox/manhattan_output/Archive/SCGA_RETAIL/CICO_004_20250402112907_40000.xml 
+2025-04-07 10:23:34.0501 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/SCGA_RETAIL/CICO_004_20250403125416_40000.xml → /home/fivebelow-uat/outbox/manhattan_output/Archive/SCGA_RETAIL/CICO_004_20250403125416_40000.xml 
+2025-04-07 10:23:35.1770 | INFO | Created directory: /home/fivebelow-uat/outbox/manhattan_output/Archive/FCIN_RETAIL 
+2025-04-07 10:23:39.5699 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/FCIN_RETAIL/CICO_02022_20250402112920_40000.xml → /home/fivebelow-uat/outbox/manhattan_output/Archive/FCIN_RETAIL/CICO_02022_20250402112920_40000.xml 
+2025-04-07 10:23:42.6284 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/FCIN_RETAIL/CICO_02022_20250403125434_40000.xml → /home/fivebelow-uat/outbox/manhattan_output/Archive/FCIN_RETAIL/CICO_02022_20250403125434_40000.xml 
+2025-04-07 10:23:43.7607 | INFO | Created directory: /home/fivebelow-uat/outbox/manhattan_output/Archive/FCIN_RETAIL/Test11 
+2025-04-07 10:23:48.1464 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/FCIN_RETAIL/Test11/CICO_02022_20250402112150_40000.xml → /home/fivebelow-uat/outbox/manhattan_output/Archive/FCIN_RETAIL/Test11/CICO_02022_20250402112150_40000.xml 
+2025-04-07 10:23:49.2786 | INFO | Created directory: /home/fivebelow-uat/outbox/manhattan_output/Archive/FCAZ_RETAIL 
+2025-04-07 10:23:53.7984 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/FCAZ_RETAIL/CICO_02021_20250403125451_40000.xml → /home/fivebelow-uat/outbox/manhattan_output/Archive/FCAZ_RETAIL/CICO_02021_20250403125451_40000.xml 
+2025-04-07 10:23:54.9522 | INFO | Created directory: /home/fivebelow-uat/outbox/manhattan_output/Archive/FCAZ_RETAIL/Test1 
+2025-04-07 10:24:03.7778 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/FCAZ_RETAIL/Test1/PunchExport 2025.02.11.csv → /home/fivebelow-uat/outbox/manhattan_output/Archive/FCAZ_RETAIL/Test1/PunchExport 2025.02.11.csv 
+2025-04-07 10:24:04.9066 | INFO | Created directory: /home/fivebelow-uat/outbox/manhattan_output/Archive/FCAZ_RETAIL/Test1/Test2 
+2025-04-07 10:24:13.1414 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/FCAZ_RETAIL/Test1/Test2/PunchExport 2025.02.11_20250212.csv → /home/fivebelow-uat/outbox/manhattan_output/Archive/FCAZ_RETAIL/Test1/Test2/PunchExport 2025.02.11_20250212.csv 
+2025-04-07 10:24:14.2670 | INFO | Created directory: /home/fivebelow-uat/outbox/manhattan_output/Archive/SCAZ_RETAIL 
+2025-04-07 10:24:18.7281 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/SCAZ_RETAIL/CICO_006_20250307222638_40000.xml → /home/fivebelow-uat/outbox/manhattan_output/Archive/SCAZ_RETAIL/CICO_006_20250307222638_40000.xml 
+2025-04-07 10:24:21.8029 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/SCAZ_RETAIL/CICO_006_20250402112110_40000.xml → /home/fivebelow-uat/outbox/manhattan_output/Archive/SCAZ_RETAIL/CICO_006_20250402112110_40000.xml 
+2025-04-07 10:24:24.8700 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/SCAZ_RETAIL/CICO_006_20250402112841_40000.xml → /home/fivebelow-uat/outbox/manhattan_output/Archive/SCAZ_RETAIL/CICO_006_20250402112841_40000.xml 
+2025-04-07 10:24:27.9654 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/SCAZ_RETAIL/CICO_006_20250403125337_40000.xml → /home/fivebelow-uat/outbox/manhattan_output/Archive/SCAZ_RETAIL/CICO_006_20250403125337_40000.xml 
+2025-04-07 10:24:31.1120 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/SCAZ_RETAIL/CICO_006_20250403140956_40001.xml → /home/fivebelow-uat/outbox/manhattan_output/Archive/SCAZ_RETAIL/CICO_006_20250403140956_40001.xml 
+2025-04-07 10:24:32.2459 | INFO | Created directory: /home/fivebelow-uat/outbox/manhattan_output/Archive/SCNJ_RETAIL 
+2025-04-07 10:24:36.6672 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/SCNJ_RETAIL/CICO_003_20250307222727_40000.xml → /home/fivebelow-uat/outbox/manhattan_output/Archive/SCNJ_RETAIL/CICO_003_20250307222727_40000.xml 
+2025-04-07 10:24:39.7131 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/SCNJ_RETAIL/CICO_003_20250402112056_40000.xml → /home/fivebelow-uat/outbox/manhattan_output/Archive/SCNJ_RETAIL/CICO_003_20250402112056_40000.xml 
+2025-04-07 10:24:42.8094 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/SCNJ_RETAIL/CICO_003_20250402112827_40000.xml → /home/fivebelow-uat/outbox/manhattan_output/Archive/SCNJ_RETAIL/CICO_003_20250402112827_40000.xml 
+2025-04-07 10:24:46.0381 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/SCNJ_RETAIL/CICO_003_20250403125130_40000.xml → /home/fivebelow-uat/outbox/manhattan_output/Archive/SCNJ_RETAIL/CICO_003_20250403125130_40000.xml 
+2025-04-07 10:24:47.1777 | INFO | Created directory: /home/fivebelow-uat/outbox/manhattan_output/Archive/SCTX_RETAIL 
+2025-04-07 10:24:51.6425 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/SCTX_RETAIL/CICO_005_20250402112123_40000.xml → /home/fivebelow-uat/outbox/manhattan_output/Archive/SCTX_RETAIL/CICO_005_20250402112123_40000.xml 
+2025-04-07 10:24:54.7028 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/SCTX_RETAIL/CICO_005_20250402112854_40000.xml → /home/fivebelow-uat/outbox/manhattan_output/Archive/SCTX_RETAIL/CICO_005_20250402112854_40000.xml 
+2025-04-07 10:24:57.7613 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/SCTX_RETAIL/CICO_005_20250403125354_40000.xml → /home/fivebelow-uat/outbox/manhattan_output/Archive/SCTX_RETAIL/CICO_005_20250403125354_40000.xml 
+2025-04-07 10:24:57.7613 | INFO | File movement process completed successfully. 
+2025-04-07 10:24:58.0668 | INFO | SFTP maintenance job completed successfully. 
+2025-04-07 10:25:43.6073 | INFO | Starting SFTP maintenance job for Process Type: ManhattanPunchExport 
+2025-04-07 10:25:50.5143 | INFO | Connected to SFTP server: sftp2.uat.legion.work 
+2025-04-07 10:25:50.5143 | INFO | Starting deletion of old files in archive: /home/fivebelow-uat/outbox/manhattan_output/Archive (Threshold: 2025-04-07) 
+2025-04-07 10:25:52.9595 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/CICO_0120_20250307222710_40000.xml 
+2025-04-07 10:25:54.9527 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/FCIN_RETAIL/CICO_02022_20250402112920_40000.xml 
+2025-04-07 10:25:55.5219 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/FCIN_RETAIL/CICO_02022_20250403125434_40000.xml 
+2025-04-07 10:25:57.4745 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/FCIN_RETAIL/Test11/CICO_02022_20250402112150_40000.xml 
+2025-04-07 10:25:59.4650 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/SCGA_RETAIL/CICO_004_20250307222655_40000.xml 
+2025-04-07 10:26:00.0519 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/SCGA_RETAIL/CICO_004_20250402112137_40000.xml 
+2025-04-07 10:26:00.6212 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/SCGA_RETAIL/CICO_004_20250402112907_40000.xml 
+2025-04-07 10:26:01.1954 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/SCGA_RETAIL/CICO_004_20250403125416_40000.xml 
+2025-04-07 10:26:03.1781 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/FCAZ_RETAIL/CICO_02021_20250403125451_40000.xml 
+2025-04-07 10:26:05.1706 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/FCAZ_RETAIL/Test1/PunchExport 2025.02.11.csv 
+2025-04-07 10:26:07.1480 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/FCAZ_RETAIL/Test1/Test2/PunchExport 2025.02.11_20250212.csv 
+2025-04-07 10:26:09.1081 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/SCTX_RETAIL/CICO_005_20250402112123_40000.xml 
+2025-04-07 10:26:09.6828 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/SCTX_RETAIL/CICO_005_20250402112854_40000.xml 
+2025-04-07 10:26:10.2768 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/SCTX_RETAIL/CICO_005_20250403125354_40000.xml 
+2025-04-07 10:26:12.2314 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/SCAZ_RETAIL/CICO_006_20250307222638_40000.xml 
+2025-04-07 10:26:12.8031 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/SCAZ_RETAIL/CICO_006_20250402112110_40000.xml 
+2025-04-07 10:26:13.3941 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/SCAZ_RETAIL/CICO_006_20250402112841_40000.xml 
+2025-04-07 10:26:13.9627 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/SCAZ_RETAIL/CICO_006_20250403125337_40000.xml 
+2025-04-07 10:26:14.5492 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/SCAZ_RETAIL/CICO_006_20250403140956_40001.xml 
+2025-04-07 10:26:16.5220 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/SCNJ_RETAIL/CICO_003_20250307222727_40000.xml 
+2025-04-07 10:26:17.0931 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/SCNJ_RETAIL/CICO_003_20250402112056_40000.xml 
+2025-04-07 10:26:17.6636 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/SCNJ_RETAIL/CICO_003_20250402112827_40000.xml 
+2025-04-07 10:26:18.2328 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/SCNJ_RETAIL/CICO_003_20250403125130_40000.xml 
+2025-04-07 10:26:18.2328 | INFO | Old file deletion process completed successfully. 
+2025-04-07 10:26:18.5481 | INFO | SFTP maintenance job completed successfully. 
+2025-04-07 10:34:03.7995 | INFO | Starting SFTP maintenance job for Process Type: ManhattanPunchExport 
+2025-04-07 10:34:10.5671 | INFO | Connected to SFTP server: sftp2.uat.legion.work 
+2025-04-07 10:34:10.5671 | INFO | Starting file movement process. Threshold date: 2025-04-07 
+2025-04-07 10:34:28.7123 | INFO | File movement process completed successfully. 
+2025-04-07 10:34:28.7123 | INFO | Starting deletion of old files in archive: /home/fivebelow-uat/outbox/manhattan_output/Archive (Threshold: 2025-04-07) 
+2025-04-07 10:34:42.4286 | INFO | Old file deletion process completed successfully. 
+2025-04-07 10:34:42.7394 | INFO | SFTP maintenance job completed successfully. 
+2025-04-07 10:40:07.4628 | INFO | Starting SFTP maintenance job for Process Type: ManhattanPunchExport 
+2025-04-07 10:40:13.9760 | INFO | Connected to SFTP server: sftp2.uat.legion.work 
+2025-04-07 10:40:13.9760 | INFO | Starting file movement process. Threshold date: 2025-04-07 
+2025-04-07 10:40:31.3671 | INFO | File movement process completed successfully. 
+2025-04-07 10:40:31.3671 | INFO | Starting deletion of old files in archive: /home/fivebelow-uat/outbox/manhattan_output/Archive (Threshold: 2025-04-07) 
+2025-04-07 10:40:34.5228 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/FCIN_RETAIL/2025.02.26 PunchExport.csv 
+2025-04-07 10:40:38.8633 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/FCAZ_RETAIL/2025.03.05 PunchExport Active.csv 
+2025-04-07 10:40:40.6702 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/FCAZ_RETAIL/Test1/PunchExport 2025.02.11.csv 
+2025-04-07 10:40:45.5150 | INFO | Old file deletion process completed successfully. 
+2025-04-07 10:40:45.8080 | INFO | SFTP maintenance job completed successfully. 
+2025-04-07 10:44:53.9080 | INFO | Starting SFTP maintenance job for Process Type: ManhattanPunchExport 
+2025-04-07 10:45:00.6517 | INFO | Connected to SFTP server: sftp2.uat.legion.work 
+2025-04-07 10:45:00.6612 | INFO | Starting file movement process. Threshold date: 2025-04-07 
+2025-04-07 10:45:07.3719 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/SCGA_RETAIL/TimeClockChangeEntity-2024-308-2024-342_test.csv → /home/fivebelow-uat/outbox/manhattan_output/Archive/SCGA_RETAIL/TimeClockChangeEntity-2024-308-2024-342_test.csv 
+2025-04-07 10:45:10.5200 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/SCGA_RETAIL/TimeClockChangeEntity-2024-308-2024-342_test2.csv → /home/fivebelow-uat/outbox/manhattan_output/Archive/SCGA_RETAIL/TimeClockChangeEntity-2024-308-2024-342_test2.csv 
+2025-04-07 10:45:15.6328 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/FCIN_RETAIL/PunchExport 2025.02.11_20250213_221106.csv → /home/fivebelow-uat/outbox/manhattan_output/Archive/FCIN_RETAIL/PunchExport 2025.02.11_20250213_221106.csv 
+2025-04-07 10:45:24.3237 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/FCAZ_RETAIL/Payfile_FEL_2024-11-17-2024-11-30-2024.csv → /home/fivebelow-uat/outbox/manhattan_output/Archive/FCAZ_RETAIL/Payfile_FEL_2024-11-17-2024-11-30-2024.csv 
+2025-04-07 10:45:33.0153 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/FCAZ_RETAIL/Test1/PunchExport 2025.02.11.csv → /home/fivebelow-uat/outbox/manhattan_output/Archive/FCAZ_RETAIL/Test1/PunchExport 2025.02.11.csv 
+2025-04-07 10:45:41.8147 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/FCAZ_RETAIL/Test1/Test2/PunchExport 2025.02.11_20250212.csv → /home/fivebelow-uat/outbox/manhattan_output/Archive/FCAZ_RETAIL/Test1/Test2/PunchExport 2025.02.11_20250212.csv 
+2025-04-07 10:45:47.6794 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/SCAZ_RETAIL/TimeClockChangeEntity-2024-308-2024-342.csv → /home/fivebelow-uat/outbox/manhattan_output/Archive/SCAZ_RETAIL/TimeClockChangeEntity-2024-308-2024-342.csv 
+2025-04-07 10:45:52.6761 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/SCNJ_RETAIL/TimeClockChangeEntity-2024-308-2024-342_test3.csv → /home/fivebelow-uat/outbox/manhattan_output/Archive/SCNJ_RETAIL/TimeClockChangeEntity-2024-308-2024-342_test3.csv 
+2025-04-07 10:45:56.1711 | INFO | Moved file: /home/fivebelow-uat/outbox/manhattan_output/SCNJ_RETAIL/TimeClockChangeEntity-2024-329-2024-363.csv.gz → /home/fivebelow-uat/outbox/manhattan_output/Archive/SCNJ_RETAIL/TimeClockChangeEntity-2024-329-2024-363.csv.gz 
+2025-04-07 10:45:57.9258 | INFO | File movement process completed successfully. 
+2025-04-07 10:45:57.9258 | INFO | Starting deletion of old files in archive: /home/fivebelow-uat/outbox/manhattan_output/Archive (Threshold: 2025-04-07) 
+2025-04-07 10:46:02.8165 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/FCIN_RETAIL/Test11/PunchExport 2025.02.11_20250212.csv 
+2025-04-07 10:46:04.7373 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/SCGA_RETAIL/PunchExport 2025.02.11_20250213_221105.csv 
+2025-04-07 10:46:05.3021 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/SCGA_RETAIL/PunchExport 2025.02.11_20250213_221106.csv 
+2025-04-07 10:46:11.3590 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/SCTX_RETAIL/TimeClockChangeEntity-2024-308-2024-342_test2.csv 
+2025-04-07 10:46:13.3126 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/SCAZ_RETAIL/PunchExport 2025.02.11_20250212.csv 
+2025-04-07 10:46:15.2550 | INFO | Deleted file: /home/fivebelow-uat/outbox/manhattan_output/Archive/SCNJ_RETAIL/TimeClockChangeEntity-2024-308-2024-342_test.csv 
+2025-04-07 10:46:15.2550 | INFO | Old file deletion process completed successfully. 
+2025-04-07 10:46:15.5631 | INFO | SFTP maintenance job completed successfully. 

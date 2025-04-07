@@ -63,6 +63,7 @@ namespace SFTPFileMaintenanceJob
             try
             {
                 var moveThresholdDate = DateTime.UtcNow.AddDays(-moveThresholdDays);
+                //var moveThresholdDate = DateTime.Now.AddMinutes(-5);
                 logger.Info($"Starting file movement process. Threshold date: {moveThresholdDate:yyyy-MM-dd}");
 
                 // Process all items in the parent folder
@@ -177,8 +178,8 @@ namespace SFTPFileMaintenanceJob
         {
             try
             {
-                //var deleteThresholdDate = DateTime.UtcNow.AddDays(-deleteThresholdDays);
-                var deleteThresholdDate = DateTime.Now;
+                var deleteThresholdDate = DateTime.UtcNow.AddDays(-deleteThresholdDays);
+                //var deleteThresholdDate = DateTime.Now.AddMinutes(-10);
                 logger.Info($"Starting deletion of old files in archive: {archiveFolder} (Threshold: {deleteThresholdDate:yyyy-MM-dd})");
                 // Recursively delete old files inside the Archive folder
                 DeleteOldFilesInFolder(sftp, archiveFolder, deleteThresholdDate);
